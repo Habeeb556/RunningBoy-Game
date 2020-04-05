@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - Bird
+  - End
+  - Time++
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3278743537
+    locked: 0
+  - name: Mountine
+    uniqueID: 4055397049
+    locked: 0
+  - name: Ground
+    uniqueID: 3374886333
+    locked: 0
+  - name: Coin
+    uniqueID: 1905759789
+    locked: 0
+  - name: Player
+    uniqueID: 993542009
+    locked: 0
